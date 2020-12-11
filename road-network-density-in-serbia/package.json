@@ -1,0 +1,14 @@
+{
+  "name": "@geoanaliticari/road-network-density-in-serbia",
+  "main": "656262901d10e22a@1069.js",
+  "version": "1069.0.0",
+  "homepage": "https://observablehq.com/@geoanaliticari/road-network-density-in-serbia",
+  "author": {
+    "name": "Geoanalitičari",
+    "url": "https://observablehq.com/@geoanaliticari"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

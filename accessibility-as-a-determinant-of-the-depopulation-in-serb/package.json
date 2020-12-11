@@ -1,0 +1,14 @@
+{
+  "name": "@geoanaliticari/accessibility-as-a-determinant-of-the-depopulation-in-serb",
+  "main": "db65a8bb1b40c2ca@1084.js",
+  "version": "1084.0.0",
+  "homepage": "https://observablehq.com/@geoanaliticari/accessibility-as-a-determinant-of-the-depopulation-in-serb",
+  "author": {
+    "name": "Geoanalitičari",
+    "url": "https://observablehq.com/@geoanaliticari"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

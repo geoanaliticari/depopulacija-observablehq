@@ -1,0 +1,14 @@
+{
+  "name": "@geoanaliticari/altitudinal-conditionality-of-the-population-density-cha",
+  "main": "813c81fc7a663eb2@997.js",
+  "version": "997.0.0",
+  "homepage": "https://observablehq.com/@geoanaliticari/altitudinal-conditionality-of-the-population-density-cha",
+  "author": {
+    "name": "Geoanalitičari",
+    "url": "https://observablehq.com/@geoanaliticari"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

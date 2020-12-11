@@ -1,0 +1,14 @@
+{
+  "name": "@geoanaliticari/spatial-lighting",
+  "main": "58c0efd9047801c1@751.js",
+  "version": "751.0.0",
+  "homepage": "https://observablehq.com/@geoanaliticari/spatial-lighting",
+  "author": {
+    "name": "Geoanalitičari",
+    "url": "https://observablehq.com/@geoanaliticari"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

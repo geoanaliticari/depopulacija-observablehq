@@ -1,0 +1,14 @@
+{
+  "name": "@geoanaliticari/altitudinal-trends-of-demographic-aging-in-serbia",
+  "main": "04ee14ae7f59da85@470.js",
+  "version": "470.0.0",
+  "homepage": "https://observablehq.com/@geoanaliticari/altitudinal-trends-of-demographic-aging-in-serbia",
+  "author": {
+    "name": "Geoanalitičari",
+    "url": "https://observablehq.com/@geoanaliticari"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
